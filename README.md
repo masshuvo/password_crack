@@ -44,20 +44,23 @@ This process creates a password-protected PDF with owner password (owner_pw) and
 -------------------------------------------------------
 </details>
 
-Zip
+# Zip
 <details> <summary>ZIP</summary>   
 
 
 </Details>
-Tar
+
+# Tar
 <details> <summary>TAR</summary>   
 
 </Details>
-7zip 
+
+# 7z
 <details> <summary>7z</summary>   
 
 </Details>
-RaR
+
+# RaR
 <details> <summary>RAR</summary>   
 
 </Details>
