@@ -48,7 +48,15 @@ first you need to convert your file to PDF </br>
 ### Use qpdf to set a password for the PDF:
 <code> qpdf --encrypt "your_password" "your_password" 40 -- intermediate.pdf final_protected.pdf </code> </br>
 
+Example: <code> qpdf --encrypt "123" "123" 256 -- pic1.pdf pic2.pdf </code>
+
 <p> Replace "your_password" with the desired password and adjust file paths as needed.</p>
+
+# Password cracking method:
+tool: pdfcrack 
+Example: <code> pdfcrack -w file.pdf pass.txt </code>
+
+
 
 -------------------------------------------------------
 </details>
