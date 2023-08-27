@@ -41,6 +41,15 @@ This process creates a password-protected PDF with owner password (owner_pw) and
 
 ### Remember to adjust the file paths and names as needed.
 
+# single password and single user
+
+first you need to convert your file to PDF </br>
+<code> convert input_image.jpg intermediate.pdf </code> </br>
+### Use qpdf to set a password for the PDF:
+<code> qpdf --encrypt "your_password" "your_password" 40 -- intermediate.pdf final_protected.pdf </code> </br>
+
+<p> Replace "your_password" with the desired password and adjust file paths as needed.</p>
+
 -------------------------------------------------------
 </details>
 
