@@ -63,9 +63,11 @@ when I try to crack AES-256 ALGORITHM encryption hashes file with hashcat it's f
 but success in John the river
 
 ![Screenshot_2023-12-28-12-00-02-883_com offsec nhterm](https://github.com/masshuvo/password_crack/assets/108648096/dd926f52-cc65-4653-b5d2-3079902b1cc5)
+</br>
 
 
 Here all hashcat supported hash mode:
+
 https://hashcat.net/wiki/doku.php?id=example_hashes
 
 Hashcat Supported all Hashs mode and encryption algorithm
