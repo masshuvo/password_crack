@@ -57,6 +57,12 @@ tool: pdfcrack
 Example: <code> pdfcrack -w file.pdf pass.txt </code>
 
 
+# issue
+when I try to crack AES-256 ALGORITHM encryption hashes file with hashcat it's failed. 
+
+but success in John the river
+
+![Screenshot_2023-12-28-12-00-02-883_com offsec nhterm](https://github.com/masshuvo/password_crack/assets/108648096/dd926f52-cc65-4653-b5d2-3079902b1cc5)
 
 -------------------------------------------------------
 </details>
